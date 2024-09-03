@@ -1,10 +1,10 @@
-package com.movies.allmovies
+package com.devjucelio.allmovies
 
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.widget.Toast
-import com.movies.allmovies.domainmodel.Details
+import com.devjucelio.allmovies.domainmodel.Details
 
 fun Details.openYoutube(context: Context?) {
     if (context != null) {

@@ -1,4 +1,4 @@
-package com.movies.allmovies
+package com.devjucelio.allmovies
 
 import android.content.Intent
 import android.net.Uri
@@ -13,12 +13,12 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.movies.allmovies.ui.mylist.MyListFragment
+import com.devjucelio.allmovies.ui.mylist.MyListFragment
 import android.widget.Toast
-import com.movies.allmovies.di.MoviesApplication
-import com.movies.allmovies.di.subcomponent.MainComponent
-import com.movies.allmovies.util.SharedPrefManager
-import com.movies.allmovies.util.Util
+import com.devjucelio.allmovies.di.MoviesApplication
+import com.devjucelio.allmovies.di.subcomponent.MainComponent
+import com.devjucelio.allmovies.util.SharedPrefManager
+import com.devjucelio.allmovies.util.Util
 
 class MainActivity : AppCompatActivity() {
 

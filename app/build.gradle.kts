@@ -131,8 +131,8 @@ dependencies {
          implementation ("com.squareup.retrofit2:converter-moshi:2.9.0")
 
         //Okhttp3
-        implementation ("com.squareup.okhttp3:okhttp:5.0.0")
-        implementation ("com.squareup.okhttp3:logging-interceptor:5.0.0")
+        implementation ("com.squareup.okhttp3:okhttp:4.1.1")
+        implementation ("com.squareup.okhttp3:logging-interceptor:4.1.1")
 
 
        //picaso
