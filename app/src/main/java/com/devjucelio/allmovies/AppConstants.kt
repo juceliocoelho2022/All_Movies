@@ -1,4 +1,4 @@
-package com.movies.allmovies
+package com.devjucelio.allmovies
 
 object AppConstants{
     const val JSON_PLACEHOLDER_BASE_URL = "https://jsonplaceholder.typicode.com"
