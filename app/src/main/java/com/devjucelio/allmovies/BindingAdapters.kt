@@ -1,4 +1,4 @@
-package com.movies.allmovies
+package com.devjucelio.allmovies
 
 import android.view.View
 import android.widget.ImageView
